@@ -1,136 +1,77 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Techreport">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Techreport" authors="Xinyi Cen ,Xuaner Zhang">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11607</md:content-id>
-  <md:title>Virtual Drum Kit</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>7bf07bb0-7e74-4683-be0d-73a852e671f2</md:uuid>
-<md:slug>virtual-drum-kit</md:slug>
-</metadata>
-
+    <md:content-id>col11607</md:content-id>
+    <md:title>Virtual Drum Kit</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>7bf07bb0-7e74-4683-be0d-73a852e671f2</md:uuid>
+    <md:slug>virtual-drum-kit</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m48493">
-        <col:featured-links>
-          
-            <cnxml:link-group type="example">
-              <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.0661675023">Project Poster</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.8533087773">Team Members and Acknowledgments</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m48490">
-        <col:featured-links>
-          
-            <cnxml:link-group type="example">
-              <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.1259453701">System Setup</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.8164196597">Motivation and Goal</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m48496">
-        <col:featured-links>
-          
-            <cnxml:link-group type="example">
-              <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.1439355155">Implementation: Detect Position of Drum Stick</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.0661675023">Project Poster</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m48491">
-        <col:featured-links>
-          
-            <cnxml:link-group type="example">
-              <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.0390523267">Implementation: Detecting a Hit</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.1259453701">System Setup</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m48497">
-        <col:featured-links>
-          
-            <cnxml:link-group type="example">
-              <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.9974496513">Implementation: Integration</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.1439355155">Implementation: Detect Position of Drum Stick</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m48495">
-        <col:featured-links>
-          
-            <cnxml:link-group type="example">
-              <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.5969651848">Testing, Conclusion and Future Work</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.0390523267">Implementation: Detecting a Hit</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m48494">
-        <col:featured-links>
-          
-            <cnxml:link-group type="example">
-              <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.8533087773">Team Members and Acknowledgments</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.9974496513">Implementation: Integration</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m48489">
-        <col:featured-links>
-          
-            <cnxml:link-group type="example">
-              <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.8164196597">Motivation and Goal</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.5969651848">Testing, Conclusion and Future Work</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
+    <col:module document="m48493">
+      <col:featured-links>
+        <cnxml:link-group type="example">
+          <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.0661675023">Project Poster</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.8533087773">Team Members and Acknowledgments</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m48490">
+      <col:featured-links>
+        <cnxml:link-group type="example">
+          <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.1259453701">System Setup</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.8164196597">Motivation and Goal</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m48496">
+      <col:featured-links>
+        <cnxml:link-group type="example">
+          <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.1439355155">Implementation: Detect Position of Drum Stick</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.0661675023">Project Poster</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m48491">
+      <col:featured-links>
+        <cnxml:link-group type="example">
+          <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.0390523267">Implementation: Detecting a Hit</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.1259453701">System Setup</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m48497">
+      <col:featured-links>
+        <cnxml:link-group type="example">
+          <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.9974496513">Implementation: Integration</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.1439355155">Implementation: Detect Position of Drum Stick</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m48495">
+      <col:featured-links>
+        <cnxml:link-group type="example">
+          <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.5969651848">Testing, Conclusion and Future Work</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.0390523267">Implementation: Detecting a Hit</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m48494">
+      <col:featured-links>
+        <cnxml:link-group type="example">
+          <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.8533087773">Team Members and Acknowledgments</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.9974496513">Implementation: Integration</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m48489">
+      <col:featured-links>
+        <cnxml:link-group type="example">
+          <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.8164196597">Motivation and Goal</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/xc7/module.2013-12-18.5969651848">Testing, Conclusion and Future Work</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
   </col:content>
 </col:collection>
